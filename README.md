@@ -1,3 +1,14 @@
+1. Геопозиция, фото, видео, обсуждения,
+
+Автоматическое создания чата в telegram через API 
+создание чатов через api 
+присвоить названия в чату 
+привязать к чату геопозиции 
+
+Почитать про сервисы payment, донаты 
+
+Создать репозиторий и запушить первым коммитом 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vadymjob/vadymjob.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
